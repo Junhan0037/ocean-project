@@ -27,5 +27,5 @@
 GUI
 
 ## Images
-<img src="/images/capture1.PNG" width="900px" height="300px" title="capture" alt="capture1"></img><br>
-<img src="/images/capture2.PNG" width="900px" height="300px" title="capture" alt="capture1"></img>
+<img src="/images/capture1.PNG" width="900px" height="450px" title="capture" alt="capture1"></img><br>
+<img src="/images/capture2.PNG" width="900px" height="450px" title="capture" alt="capture1"></img>
